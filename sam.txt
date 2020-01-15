@@ -1,2 +1,3 @@
 hello this is new file to check the merge process
+now again to doo that
 this one for master
